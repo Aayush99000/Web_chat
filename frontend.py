@@ -9,7 +9,7 @@ from chatbot import (
     retrieve_documents
 )
 
-FLASK_URL = "http://127.0.0.1:8080"  # Base URL for the Flask app
+FLASK_URL = "https://flask-cwz9.vercel.app/"  # Base URL for the Flask app
 
 
 def fetch_posts_from_flask():

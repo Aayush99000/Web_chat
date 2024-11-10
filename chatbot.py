@@ -6,7 +6,7 @@ from typing import List
 from langchain.text_splitter import CharacterTextSplitter
 from transformers import pipeline
 
-FLASK_URL = "http://127.0.0.1:8080"  # Base URL for the Flask app
+FLASK_URL = "https://flask-cwz9.vercel.app/"  # Base URL for the Flask app
 
 
 # Split text into chunks
